@@ -2,10 +2,12 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://neverskiplegday.ca",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
     "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "jwt-decode": "^2.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
